@@ -1,0 +1,244 @@
+[DEBUG] 2017-10-02 09:00:53,477 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:04:53,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:08:54,146 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:12:54,517 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:16:54,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:20:55,159 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:24:55,553 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:28:55,870 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:32:56,185 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:36:56,541 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:40:56,887 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:44:57,212 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:48:57,541 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:52:57,861 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 09:56:58,188 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:00:58,512 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:04:58,899 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:08:59,219 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:12:59,549 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:16:59,888 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:21:00,210 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:25:00,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:29:00,853 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:33:01,213 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:37:01,562 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:41:01,906 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:45:02,238 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:49:02,552 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:53:02,869 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 10:57:03,192 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 11:01:03,507 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 11:05:03,869 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[ERROR] 2017-10-02 12:09:13,274 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Exception in Enqueue Events for Site bench-manager.local
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 70, in enqueue_events_for_site
+    if is_scheduler_disabled():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 214, in is_scheduler_disabled
+    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 570, in get_single_value
+    tabSingles where doctype=%s and field=%s""", (doctype, fieldname))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+
+[ERROR] 2017-10-02 12:13:13,571 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Exception in Enqueue Events for Site bench-manager.local
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 70, in enqueue_events_for_site
+    if is_scheduler_disabled():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 214, in is_scheduler_disabled
+    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 570, in get_single_value
+    tabSingles where doctype=%s and field=%s""", (doctype, fieldname))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+
+[ERROR] 2017-10-02 12:17:13,840 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Exception in Enqueue Events for Site bench-manager.local
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 70, in enqueue_events_for_site
+    if is_scheduler_disabled():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 214, in is_scheduler_disabled
+    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 570, in get_single_value
+    tabSingles where doctype=%s and field=%s""", (doctype, fieldname))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+
+[ERROR] 2017-10-02 12:21:14,110 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Exception in Enqueue Events for Site bench-manager.local
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 70, in enqueue_events_for_site
+    if is_scheduler_disabled():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 214, in is_scheduler_disabled
+    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 570, in get_single_value
+    tabSingles where doctype=%s and field=%s""", (doctype, fieldname))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+
+[ERROR] 2017-10-02 12:25:14,433 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Exception in Enqueue Events for Site bench-manager.local
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 70, in enqueue_events_for_site
+    if is_scheduler_disabled():
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py", line 214, in is_scheduler_disabled
+    return not frappe.utils.cint(frappe.db.get_single_value("System Settings", "enable_scheduler"))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 570, in get_single_value
+    tabSingles where doctype=%s and field=%s""", (doctype, fieldname))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+
+[ERROR] 2017-10-02 12:27:45,350 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: bench-manager.local
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 54, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 116, in init_request
+    frappe.local.http_request = frappe.auth.HTTPRequest()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/auth.py", line 44, in __init__
+    self.set_lang()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/auth.py", line 88, in set_lang
+    frappe.local.lang = guess_language()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", line 29, in guess_language
+    lang_list = get_all_languages() or []
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", line 84, in get_all_languages
+    return frappe.cache().get_value('languages', _get)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/redis_wrapper.py", line 72, in get_value
+    val = generator()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/translate.py", line 83, in _get
+    return frappe.db.sql_list('select name from tabLanguage')
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 222, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 123, in sql
+    self.connect()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 69, in connect
+    use_unicode=True, charset='utf8mb4')
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/__init__.py", line 86, in Connect
+    return Connection(*args, **kwargs)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/MySQLdb/connections.py", line 204, in __init__
+    super(Connection, self).__init__(*args, **kwargs2)
+OperationalError: (1045, "Access denied for user '6d4b9452aef14153'@'frappe.frappedocker_default' (using password: YES)")
+[ERROR] 2017-10-02 12:27:45,431 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2017-10-02 12:27:45.351008-127.0.0.1-de7
+[DEBUG] 2017-10-02 12:49:18,375 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 12:53:18,733 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 12:57:19,445 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 13:01:19,790 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local
+[DEBUG] 2017-10-02 13:05:20,130 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: bench-manager.local
+Queued events for site bench-manager.local

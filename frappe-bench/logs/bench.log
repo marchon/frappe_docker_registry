@@ -1,0 +1,8 @@
+2017-10-02 08:30:33,205 INFO getting app bench_manager
+2017-10-02 08:30:33,257 INFO git clone https://github.com/frappe/bench_manager  --depth 1 --origin upstream
+2017-10-02 08:30:35,645 INFO installing bench_manager
+2017-10-02 08:30:35,645 INFO ./env/bin/pip install -q  -e ./apps/bench_manager --no-cache-dir
+2017-10-02 11:02:10,509 INFO getting app erpnext
+2017-10-02 11:02:10,587 INFO git clone https://github.com/frappe/erpnext  --depth 1 --origin upstream
+2017-10-02 11:05:16,314 INFO installing erpnext
+2017-10-02 11:05:16,314 INFO ./env/bin/pip install -q  -e ./apps/erpnext --no-cache-dir
